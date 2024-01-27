@@ -1,0 +1,12 @@
+<h1>Yılmaz Yiğit Gökmen</h1>
+  <h2>Hakkımda</h2>
+     <p>25 yaşındayım Bilkent Üniversitesi Turizm ve Otel İşletmeciliğinden mezunum.Mezun olduktan sonra Ankaradaki birkaç otelde ve Bodrumda bir resort otelde çalıştım. Kuala Lumpurda 3 Aylık bir yurtdışı çalışma tecrübemde oldu. En büyük hobim ise Fitness.</p>
+
+<h3><font size=6>Sevdiğim Diziler</font></h3>
+<!-- Sevdiğim diziler kısmını daha büyük yapmak için Strong etiketini kullandım ancak bir değişiklik göremedim.İnternetten araştırıp font size etiketini kullandım -->
+
+    <h4><font size=5>Breaking Bad</font></h4>
+
+          <p> Çekimleri, hikâyenin de geçtiği Albuquerque, New Mexico'da yapılan dizi, ellinci yaş gününü kutladıktan sonra üçüncü evre akciğer kanseri olduğunu öğrenen kimya öğretmeni Walter White'ın (Bryan Cranston) uyuşturucu baronuna dönüşme sürecini konu almaktadır.</p>
+<!-- Bu kısma bilerek 2. bir paragraf açtım çünkü Html de enter özelliği yok -->
+  <p>Bu dizi Hakkında benim en beğendiğim kısım ise aşırı gerçekçi oyunculuk ve 1. sezondan sonra olan sürükleyicilik.</p>
